@@ -1,4 +1,4 @@
-### 👨‍🚀 Site Reliability Engineer in Vilnius, Lithuania 🇱🇹
+### 👨‍🚀 Site Reliability Engineer 🇱🇹
 ###### 📫 [edgaras.lisauskas@icloud.com](mailto:edgaras.lisauskas@icloud.com)
 
 <!--
