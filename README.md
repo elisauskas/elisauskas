@@ -1,4 +1,4 @@
-### 👨‍🚀 Site Reliability Engineer @Workato 🇱🇹
+### 👨‍🚀 Site Reliability Engineer @Workato
 ###### 📫 [edgaras.lisauskas@workato.com](mailto:edgaras.lisauskas@workato.com)
 
 <!--
